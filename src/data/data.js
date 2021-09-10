@@ -21,7 +21,7 @@ let data = [
     id: "4",
     Name: "samgung",
     description: "asdkuhaisd hhak sdjk ahskdfdsf",
-    img: "https://cdn.pixabay.com/photo/2018/05/31/15/06/see-no-evil-3444212__340.jpg",
+    img: "https://triomobiles.com/img/junior_edge/largefront.jpg",
   },
   {
     id: "5",
